@@ -4,6 +4,6 @@
 
 @section('main-content')
     <main>
-        
+        <h1>Create</h1>
     </main>
 @endsection
